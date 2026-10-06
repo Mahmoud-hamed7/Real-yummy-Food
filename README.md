@@ -2,7 +2,7 @@
 
 **Yummy** is an interactive, responsive web application designed to help users discover, search, and explore delicious food recipes from around the world. Powered by **TheMealDB API**, users can filter meals by categories, country of origin, or specific ingredients, view detailed step-by-step cooking instructions, and interact with a sleek, animated user interface.
 
-🚀 **Live Demo:** [Yummy Food Search Engine](https://mahmoud-hamed7.github.io/Yummy-food-search-engine/)
+🚀 **Live Demo:** [Yummy Food Search Engine](https://mahmoud-hamed7.github.io/Real-yummy-Food/)
 
 ---
 
